@@ -3,31 +3,31 @@
     {
       "id": 1,
       "name": "Fulano",
-      "lote": "1° lote"
+      "lote": "1° lote",
       "function": "GL",
       "classType": "Obreiro",
-      "group": "Grupo 3"
-      "situation": "Membro não batizado"
+      "group": "Grupo 3",
+      "situation": "Membro não batizado",
       "hasContribuition": false
     },
     {
        "id": 2,
       "name": "Beltrano",
-      "lote": "2° lote"
+      "lote": "2° lote",
       "function": "GI",
       "classType": "Varão",
-      "group": "Grupo 2"
-      "situation": "Membro"
+      "group": "Grupo 2",
+      "situation": "Membro",
       "hasContribuition": true
     },
     {
        "id": 1,
       "name": "Ciclano",
-      "lote": "3° lote"
+      "lote": "3° lote",
       "function": "Professor de Jovens",
       "classType": "Varão",
-      "group": "Grupo 1"
-      "situation": "Visitante"
+      "group": "Grupo 1",
+      "situation": "Visitante",
       "hasContribuition": false
     }
   ]
