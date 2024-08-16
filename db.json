@@ -1,4 +1,46 @@
 {
+  "ebds": [
+    {
+      "id": 1,
+      "description":"EBD N° 34 / 2024",
+      "isClosed": false,
+      "contribuitions": 80,
+      "members": 100,
+      "contributionPercentage": 80
+    },
+    {
+      "id": 2,
+      "description":"EBD N° 33 / 2024",
+      "isClosed": true,
+      "contribuitions": 13,
+      "members": 100,
+      "contributionPercentage": 13
+    },
+    {
+      "id": 3,
+      "description":"EBD N° 32 / 2024",
+      "isClosed": true,
+      "contribuitions": 15,
+      "members": 120,
+      "contributionPercentage": 12.5
+    },
+    {
+      "id": 4,
+      "description":"EBD N° 31 / 2024",
+      "isClosed": true,
+      "contribuitions": 62,
+      "members": 125,
+      "contributionPercentage": 49.6
+    },
+    {
+      "id": 5,
+      "description":"EBD N° 30 / 2024",
+      "isClosed": true,
+      "contribuitions": 43,
+      "members": 132,
+      "contributionPercentage": 32.57
+    }
+  ],
   "members": [
     {
       "id": 1,
