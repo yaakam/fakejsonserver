@@ -9,6 +9,46 @@
           "hasContribuition": true
         }
       ]
+    },
+    {
+      "id": 2,
+      "name": "Ciclano",
+      "lastContribuitions": [
+        { 
+          "description": "EBD N° 34 / 2024",
+          "hasContribuition": true
+        },
+        { 
+          "description": "EBD N° 33 / 2024",
+          "hasContribuition": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Beltrano",
+      "lastContribuitions": [
+        { 
+          "description": "EBD N° 34 / 2024",
+          "hasContribuition": true
+        },
+        { 
+          "description": "EBD N° 33 / 2024",
+          "hasContribuition": false
+        },
+        { 
+          "description": "EBD N° 32 / 2024",
+          "hasContribuition": true
+        },
+        { 
+          "description": "EBD N° 31 / 2024",
+          "hasContribuition": false
+        },
+        { 
+          "description": "EBD N° 30 / 2024",
+          "hasContribuition": true
+        }
+      ]
     }
   ],
   "ebds": [
