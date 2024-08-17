@@ -2,9 +2,12 @@
   "recurrence": [
     {
       "id": 1,
-      "name":"Fulano",
+      "name": "Fulano",
       "lastContribuitions": [
-        {"description": "EBD N° 34 / 2024", "hasContribution": true}
+        { 
+          "description": "EBD N° 34 / 2024",
+          "hasContribution": true
+        }
       ]
     }
   ],
