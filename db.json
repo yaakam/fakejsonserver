@@ -1,4 +1,13 @@
 {
+  "recurrence": [
+    {
+      "id": 1,
+      "name":"Fulano",
+      "lastContribuitions": [
+        {"description:" "EBD N° 34 / 2024", "hasContribution": true}
+      ]
+    }
+  ],
   "ebds": [
     {
       "id": 1,
